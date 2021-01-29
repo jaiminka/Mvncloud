@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-29T23:15:00Z" name="Surefire suite" finished-at="2021-01-29T23:15:15Z" duration-ms="14931">
+    <groups>
+    </groups>
+    <test started-at="2021-01-29T23:15:00Z" name="Surefire test" finished-at="2021-01-29T23:15:15Z" duration-ms="14931">
+      <class name="loginTest.MvnAmicusCloud.LoginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:loginTest.MvnAmicusCloud.LoginTest@4d9e68d0]" started-at="2021-01-29T23:15:00Z" name="beforeMethod" finished-at="2021-01-29T23:15:08Z" duration-ms="8178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginTests()[pri:0, instance:loginTest.MvnAmicusCloud.LoginTest@4d9e68d0]" started-at="2021-01-29T23:15:08Z" name="loginTests" finished-at="2021-01-29T23:15:15Z" duration-ms="6565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTests -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:loginTest.MvnAmicusCloud.LoginTest@4d9e68d0]" started-at="2021-01-29T23:15:15Z" name="afterMethod" finished-at="2021-01-29T23:15:15Z" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- loginTest.MvnAmicusCloud.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
